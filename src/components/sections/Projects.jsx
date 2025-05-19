@@ -14,7 +14,7 @@ export const Projects = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-              <h3 className="text-xl font-bold mb-2"> Cloud Platform</h3>
+              <h3 className="text-xl font-bold mb-2 text-black"> Cloud Platform</h3>
               <p className="text-gray-400 mb-4">
                 Scalable cloud infrastructure management with real-time
                 monitoring and automated scaling.
@@ -49,7 +49,7 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">AI Analytics Dashboard</h3>
+              <h3 className="text-xl font-bold mb-2 text-black">AI Analytics Dashboard</h3>
               <p className="text-gray-400 mb-4">
                 ML-powered data visualization platform with predictive analytics
                 and interactive reports.
@@ -88,7 +88,7 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">E-Commerce Web App</h3>
+              <h3 className="text-xl font-bold mb-2 text-black">E-Commerce Web App</h3>
               <p className="text-gray-400 mb-4">
                 Full-stack e-commerce with modern UI, secure payment
                 integration, and customizable product inventory.
@@ -129,7 +129,7 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">Real-Time Chat App</h3>
+              <h3 className="text-xl font-bold mb-2 text-black">Real-Time Chat App</h3>
               <p className="text-gray-400 mb-4">
                 Scalable chat platform supporting real-time messaging, presence,
                 and group chat features.
